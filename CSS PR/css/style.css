@@ -586,11 +586,7 @@ h1{
     background-position: center;
     background-size: cover;
     transform: translateY(-15px);
-}
-.testimonials-items:hover a p{
-    color: #fff;    
-}
-
+}
 
 /* TALK */
 
