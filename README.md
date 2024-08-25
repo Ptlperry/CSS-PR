@@ -1,1 +1,1 @@
-output:  https://lively-sunflower-a3fd10.netlify.app/
+output:  https://fastidious-strudel-6684f1.netlify.app/
